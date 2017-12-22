@@ -9,7 +9,7 @@
       </metadata>
     </repository>
     <repository>
-      <include>true</include>
+      <include>false</include>
       <metadata>
         <id>BDI</id>
         <url>http://omnia.modinter.com.ec:8081/nexus/content/groups/BDI-4.1.0-group/</url>
