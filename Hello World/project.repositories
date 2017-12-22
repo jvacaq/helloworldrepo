@@ -9,10 +9,18 @@
       </metadata>
     </repository>
     <repository>
-      <include>false</include>
+      <include>true</include>
       <metadata>
-        <id>BDI</id>
-        <url>http://omnia.modinter.com.ec:8081/nexus/content/groups/BDI-4.1.0-group/</url>
+        <id>guvnor-m2-repo</id>
+        <url>http://localhost:8080/business-central/maven2/</url>
+        <source>PROJECT</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>central</id>
+        <url>https://repo.maven.apache.org/maven2</url>
         <source>PROJECT</source>
       </metadata>
     </repository>
