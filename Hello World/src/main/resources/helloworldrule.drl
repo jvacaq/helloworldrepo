@@ -3,5 +3,5 @@ ruleflow-group "helloworldgroup"
 
 when
 then
-    System.out.println("Regla mas que simple. Git es todo");
+    System.out.println("Regla mas que simple. Git es todo lo que necesitas");
 end
