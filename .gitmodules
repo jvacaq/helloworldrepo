@@ -1,0 +1,3 @@
+[submodule "mupi-reglas"]
+	path = mupi-reglas
+	url = https://github.com/jvacaq/mupi-reglas
